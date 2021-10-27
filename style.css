@@ -45,6 +45,7 @@ input{
 .form-control {
     display: inline-block !important;
     margin: 2px;
+    width: 33.3%;
 }
 
 .btn {
